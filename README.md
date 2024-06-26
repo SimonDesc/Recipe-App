@@ -4,7 +4,7 @@
 ![Demo](./demo.gif)
 
 ## 🌐 Live Here
-[Live Demo](https://simondesc.github.io/)
+[Live Demo](https://simondesc.github.io/Recipe-App/)
 
 ## 📜 Project Overview
 This project repository contains **FoodRecipes**, a simple yet powerful React application designed to help users find recipes based on ingredients. The application demonstrates the fundamental concepts of React.js, including state management, props, and component lifecycle methods, along with routing using `react-router-dom`. Users can search for recipes by entering an ingredient (e.g., cucumber) and view a list of recipes fetched from an API. This application serves as a practical example of building interactive web applications using React.
